@@ -6,9 +6,9 @@ Amirhadi Askari — Python developer who loves building smart scripts, automatio
 - 💻 Python (Automation, Scripting, Web)
 - 📊 Data Analysis & Visualization (Pandas, Matplotlib)
 - 🤖 AI / Machine Learning (Basic models & use cases)
-- ⚙️ Git, GitHub, CLI tools
 - 🌐 HTML, CSS (for small web apps)
-
+- ⚙️ Git, GitHub, CLI tools
+  
 ## 🧩 What I’m Working On
 - Building cool tools with Python 🐍  
 - Learning more about AI & real-world automation  
