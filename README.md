@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm h4d1x
 
-Amirhadi Askari — Python developer who loves building smart scripts, automation tools, and AI-powered systems.
+Hadi Askari — Python developer who loves building smart scripts, automation tools, and AI-powered systems.
 
 ## 🧠 Skills & Interests
 - 💻 Python (Automation, Scripting, Web)
