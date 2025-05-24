@@ -15,4 +15,4 @@ Amirhadi Askari — Python developer who loves building smart scripts, automatio
 - Open to collaborations and freelance work
 
 ## 📫 Contact Me
-- GitHub: [github.com/h4d1x](https://github.com/h4d1x)
+- Email: amirhadiaskari@gmail.com
